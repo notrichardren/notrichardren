@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Richard Ren – @notrichardren
-- 👀 I’m interested in artificial intelligence safety, physics-informed neural networks, and climate economics
-- 🌱 I’m currently learning deep learning through PyTorch & einops
+- 👀 I’m interested in artificial intelligence safety and machine learning model evaluation
+- 🌱 I'm quite interested in pursuing a Ph.D. in Economics, and I'm quite interested in both the economics of AI and climate economics
 - 📫 hi.richard.ren@gmail.com
 
 <!---
