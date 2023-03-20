@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Richard Ren. I'm interested in tech & policy related to artificial intelligence and climate change.
-- 👀 On the technical research side, I'm currently interested in NLP safety work, values encoding, robustness, and automated model evaluation. I've recently been working on a list of research proposals to improve safety in NLP systems.
+- 👀 On the technical research side, I'm currently interested in values encoding, robustness, and automated model evaluation. I've recently been working on a list of research proposals to improve safety in NLP systems.
 - 🌱 On the policy-relevant data analysis & software tools side, I'm quite interested in climate adaptation and using satellite data to proxy environmental or economic variables of interest.
 - 📫 hi.richard.ren@gmail.com
 
