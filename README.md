@@ -3,6 +3,10 @@
 - 🌱 On the policy-relevant data analysis & software tools side, I'm quite interested in climate adaptation and using satellite data to proxy environmental or economic variables of interest.
 - 📫 hi.richard.ren@gmail.com
 
+Current projects:
+- Replicating Toolformer with a Wolfram Alpha API
+- Reward misspecification detection through LLMs via OpenAI GPT-4 API calls
+
 <!---
 notrichardren/notrichardren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
