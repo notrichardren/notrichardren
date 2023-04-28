@@ -4,8 +4,8 @@
 - 📫 hi.richard.ren@gmail.com
 
 **Current projects:**
-- 🛠 [Repo](https://github.com/notrichardren/wolfram-toolformer-tests) Replicating Toolformer with a Wolfram Alpha API, OpenAI's API, and a two-pass prompting procedure
-- 🤖 [Repo](https://github.com/kaustubhsridhar/GPT4_fixes_reward_hacking) Reward hacking detection through LLMs via OpenAI GPT-4 API calls, in toy gridworld environments
+- 🛠 Replicating Toolformer with a Wolfram Alpha API, OpenAI's API, and a two-pass prompting procedure [[Link]](https://github.com/notrichardren/wolfram-toolformer-tests) 
+- 🤖 Reward hacking detection through LLMs via OpenAI GPT-4 API calls, in toy gridworld environments [[Link]](https://github.com/kaustubhsridhar/GPT4_fixes_reward_hacking)
 - 🗺 Urban flood mapping via CNN segmentation
 
 <!---
