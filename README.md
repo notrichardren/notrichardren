@@ -4,7 +4,7 @@
 - 📫 hi.richard.ren@gmail.com
 
 **Current projects:**
-- 🛠 Replicating Toolformer with a Wolfram Alpha API
+- 🛠 Replicating Toolformer with a Wolfram Alpha API, OpenAI's API, and a two-pass prompting procedure
 - 🤖 Reward hacking detection through LLMs via OpenAI GPT-4 API calls, in toy gridworld environments
 - 🗺 Urban flood mapping via CNN segmentation
 
