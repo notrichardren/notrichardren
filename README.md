@@ -6,7 +6,7 @@
 **Current projects:**
 - 🛠 Replicating Toolformer with a Wolfram Alpha API, OpenAI's API, and a two-pass prompting procedure [[Link]](https://github.com/notrichardren/wolfram-toolformer-tests) 
 - 🤖 Reward hacking detection through LLMs via OpenAI GPT-4 API calls, in toy gridworld environments [[Link]](https://github.com/kaustubhsridhar/GPT4_fixes_reward_hacking)
-- 🗺 Urban flood mapping via CNN segmentation
+- 🗺 Land use and land cover estimates in large European cities via CNN segmentation
 
 <!---
 notrichardren/notrichardren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
