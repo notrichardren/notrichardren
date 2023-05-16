@@ -7,6 +7,7 @@
 - 🛠 Replicating Toolformer with a Wolfram Alpha API, OpenAI's API, and a two-pass prompting procedure [[Link]](https://github.com/notrichardren/wolfram-toolformer-tests) 
 - 🤖 Reward hacking detection through LLMs via OpenAI GPT-4 API calls, in toy gridworld environments [[Link]](https://github.com/kaustubhsridhar/GPT4_fixes_reward_hacking)
 - 🗺 Land use and land cover estimates in large European cities via CNN segmentation and classification
+- 🏹 Generating AI preferences for fine-tuning language models with reinforcement learning with AI feedback
 
 <!---
 notrichardren/notrichardren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
