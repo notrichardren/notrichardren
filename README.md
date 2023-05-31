@@ -7,7 +7,7 @@
 - 🛠 Replicating Toolformer with a Wolfram Alpha API, OpenAI's API, and a two-pass prompting procedure [[Link]](https://github.com/notrichardren/wolfram-toolformer-tests) 
 - 🤖 Reward hacking detection through LLMs via OpenAI GPT-4 API calls, in toy gridworld environments [[Link]](https://github.com/kaustubhsridhar/GPT4_fixes_reward_hacking)
 - 🗺 Land use and land cover estimates in large European cities via CNN segmentation and classification
-- 📚 Going through the Alignment Research Engineering Accelerator (ARENA) Curriculum: mechanistic interpretability, transformer circuits, RL in OpenAI's Gym environment, and training LLMs at scale
+- 📚 Going through the Alignment Research Engineering Accelerator (ARENA) Curriculum: mechanistic interpretability, transformer circuits, RL in OpenAI's Gym environment, and training LLMs at scale [[Link]](https://github.com/notrichardren/ARENA)
 - 🏹 Generating AI preferences for fine-tuning language models with reinforcement learning with AI feedback
 
 <!---
