@@ -2,7 +2,6 @@
 - 💓 On the technical research side, I'm currently interested in values encoding and embedding complex moral nuance in AI systems via RLHF, robustness, and automated model evaluation. I've recently been working on a list of research proposals to improve safety in NLP systems.
 - 🌱 On the policy-relevant data analysis & software tools side, I'm interested in climate adaptation and using satellite data to proxy environmental or economic variables of interest.
 - 📫 hi.richard.ren@gmail.com
-- 🏫 Affiliations: @EleutherAI, @CarperAI, @PennNLP
 
 **Current projects:**
 - 🛠 Replicating Toolformer with a Wolfram Alpha API, OpenAI's API, and a two-pass prompting procedure [[Link]](https://github.com/notrichardren/wolfram-toolformer-tests) 
