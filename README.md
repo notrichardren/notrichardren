@@ -9,6 +9,7 @@
 - 🗺 Land use and land cover estimates in large European cities via CNN segmentation and classification
 - 📚 Going through the ARENA (Alignment Research Engineering Accelerator) Curriculum: interpretability of transformer circuits, ablation and path-patching, probing, indirect object detection, RL in OpenAI's Gym environment, and training LLMs at scale [[Link]](https://github.com/notrichardren/arena-curriculum)
 - 🏹 Generating AI preferences for fine-tuning language models with reinforcement learning with AI feedback
+- 💡 Utilizing contrast-consistent search (Burns et al., 2022) to investigate truthfulness in models
 
 <!---
 notrichardren/notrichardren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
