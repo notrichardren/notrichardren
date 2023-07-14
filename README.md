@@ -9,7 +9,7 @@
 - 🗺 Land use and land cover estimates in large European cities via CNN segmentation and classification
 - 📚 Going through the ARENA (Alignment Research Engineering Accelerator) Curriculum: interpretability of transformer circuits, ablation and path-patching, probing, indirect object identification, RL in OpenAI's Gym environment, and training LLMs at scale [[Link]](https://github.com/notrichardren/arena-curriculum)
 - 🏹 Generating AI preferences for fine-tuning language models with reinforcement learning with AI feedback
-- 💡 Utilizing inference-time intervention and linear classification probing to investigate truthfulness in models
+- 💡 Utilizing inference-time intervention and linear classification probing to investigate truthfulness in models [[Link]](https://github.com/magikarp01/iti_capstone)
 
 <!---
 notrichardren/notrichardren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
