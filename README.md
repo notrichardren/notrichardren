@@ -1,8 +1,6 @@
 👋 Hi, I’m Richard Ren. I work on LLM evaluations, representation engineering, and interpretability. Co-author in "Representation Engineering" and "Localizing Lying in Llama".
 
-📫 [Email](hi.richard.ren@gmail.com)
-
-🎓 [Google Scholar](https://scholar.google.com/citations?user=o-Vl80UAAAAJ&hl=en)
+📫 [Email](hi.richard.ren@gmail.com) | 🎓 [Google Scholar](https://scholar.google.com/citations?user=o-Vl80UAAAAJ&hl=en)
 
 <!---
 notrichardren/notrichardren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
