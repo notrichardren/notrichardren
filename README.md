@@ -1,4 +1,4 @@
-👋 Hi, I’m Richard Ren. I work on LLM evaluations, representation engineering, and interpretability. I'm a co-author for the "Representation Engineering" and "Localizing Lying in Llama" papers.
+👋 Hi, I’m Richard Ren. I work on LLM evaluations, representation engineering, and interpretability.
 
 📫 [Email](hi.richard.ren@gmail.com) | 🎓 [Google Scholar](https://scholar.google.com/citations?user=o-Vl80UAAAAJ&hl=en)
 
