@@ -12,11 +12,16 @@ I'm a fourth-year undergraduate student at the Jerome Fisher M&T Program at the 
 - Research cited by OpenAI's Superalignment Fast Grants page
 - Techniques incorporated into major open-source projects (llama.cpp, vLLM)
 
-## 📚 Recent Publications
+## 📚 Publications
 
+### AI Safety & Machine Learning
 - **[Safetywashing: Do AI Safety Benchmarks Actually Measure Safety Progress?](http://www.arxiv.org/abs/2407.21792)** (NeurIPS 2024 D&B)
 - **[Representation Engineering: A Top-Down Approach to AI Transparency](http://www.arxiv.org/abs/2310.01405)** (200+ citations)
 - **[Localizing Lying in Llama](http://www.arxiv.org/abs/2311.15131)** (NeurIPS 2023 SoLaR Workshop)
+
+### Physics & Applied ML
+- **[High-Efficiency Scattering Probe Design for S-Polarized Near-Field Microscopy](https://iopscience.iop.org/article/10.35848/1882-0786/abd716/meta)** (Applied Physics Express, 2021)
+- **[Validity of Machine Learning in the Quantitative Analysis of Complex Scanning Near-Field Optical Microscopy Signals Using Simulated Data](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.15.014001)** (Physical Review Applied, 2021)
 
 ## 🔗 Connect With Me
 
