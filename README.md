@@ -30,7 +30,7 @@ I'm a fourth-year undergraduate student at the Jerome Fisher M&T Program at the 
 - 📚 [Google Scholar](https://scholar.google.com/citations?user=o-Vl80UAAAAJ&hl=en)
 - 🎓 [Semantic Scholar](https://www.semanticscholar.org/author/Richard-Ren/2253397384)
 - 💼 [LinkedIn](https://www.linkedin.com/in/richard-ren-tech/)
-- 🐦 [Twitter](https://x.com/notRichardRen)
+- 🐦 [X](https://x.com/notRichardRen)
 
 ## 🧪 Research Style
 
