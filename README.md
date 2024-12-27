@@ -1,6 +1,35 @@
-👋 Hi, I’m Richard Ren. I work on large language models and specialize in evaluations, adversarial robustness, and model transparency.
+# Hi, I'm Richard Ren 👋
 
-📫 [Email](hi.richard.ren@gmail.com) | 🎓 [Google Scholar](https://scholar.google.com/citations?user=o-Vl80UAAAAJ&hl=en) | 🏫 [Semantic Scholar](https://www.semanticscholar.org/author/Richard-Ren/2253397384)
+I'm a fourth-year undergraduate student at the Jerome Fisher M&T Program at the University of Pennsylvania, specializing in AI safety and transparency research. My work focuses on evaluating and understanding large language models, particularly in the areas of:
+- Model evaluations and benchmarking
+- Steering model behaviors
+- AI transparency and interpretability
+
+## 🔬 Research Highlights
+
+- Co-authored the most comprehensive empirical meta-analysis of AI safety benchmarks to date
+- Work presented at the UK AI Safety Institute
+- Research cited by OpenAI's Superalignment Fast Grants page
+- Techniques incorporated into major open-source projects (llama.cpp, vLLM)
+
+## 📚 Recent Publications
+
+- **[Safetywashing: Do AI Safety Benchmarks Actually Measure Safety Progress?](http://www.arxiv.org/abs/2407.21792)** (NeurIPS 2024 D&B)
+- **[Representation Engineering: A Top-Down Approach to AI Transparency](http://www.arxiv.org/abs/2310.01405)** (200+ citations)
+- **[Localizing Lying in Llama](http://www.arxiv.org/abs/2311.15131)** (NeurIPS 2023 SoLaR Workshop)
+
+## 🔗 Connect With Me
+
+- 🌐 [Personal Website](https://notrichardren.github.io)
+- 📧 [Email](mailto:hi.richard.ren@gmail.com)
+- 📚 [Google Scholar](https://scholar.google.com/citations?user=o-Vl80UAAAAJ&hl=en)
+- 🎓 [Semantic Scholar](https://www.semanticscholar.org/author/Richard-Ren/2253397384)
+- 💼 [LinkedIn](https://www.linkedin.com/in/richard-ren-tech/)
+- 🐦 [Twitter](https://x.com/notRichardRen)
+
+## 🧪 Research Style
+
+I'm an experimentalist at heart with a quick, iterative, and empirically-driven approach. I focus on understudied directions and new potential research areas in the ML community.
 
 <!---
 notrichardren/notrichardren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
