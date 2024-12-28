@@ -34,7 +34,7 @@ I'm a fourth-year undergraduate student at the Jerome Fisher M&T Program at the 
 
 ## 🧪 Research Style
 
-I'm an experimentalist at heart with a quick, iterative, and empirically-driven approach. I focus on understudied directions and new potential research areas in the ML community.
+I'm an experimentalist at heart with a quick, iterative, and empirically-driven approach. I like to focus on new potential research areas, rather than research that fits cleanly into pre-existing research areas.
 
 <!---
 notrichardren/notrichardren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
