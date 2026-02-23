@@ -1,6 +1,6 @@
 # Hi, I'm Richard Ren 👋
 
-I work on research and special projects at the [Center for AI Safety](https://www.safe.ai/), advised by [Dan Hendrycks](https://scholar.google.com/citations?user=czyretsAAAAJ&hl=en). I studied Computer Science (Penn Engineering) and Economics (Wharton) at the University of Pennsylvania.
+I work on research and special projects at the [Center for AI Safety](https://www.safe.ai/), advised by [Dan Hendrycks](https://scholar.google.com/citations?user=czyretsAAAAJ&hl=en).
 
 I have co-led the most comprehensive empirical meta-analysis of AI safety benchmarks to date ([Safetywashing](https://arxiv.org/abs/2407.21792), NeurIPS '24) as well as the development of an AI honesty benchmark ([MASK](https://arxiv.org/abs/2503.03750)). My co-1st-authored work has been presented at the UK Government AI Safety Institute (by invitation), cited by the [Singapore Consensus](https://arxiv.org/pdf/2506.20702) on AI Safety Priorities, and used by researchers at [xAI](https://data.x.ai/2025-08-20-grok-4-model-card.pdf), [OpenAI](https://cdn.openai.com/papers/trading-inference-time-compute-for-adversarial-robustness-20250121_1.pdf), and [Anthropic](https://alignment.anthropic.com/2025/honesty-elicitation/).
 
